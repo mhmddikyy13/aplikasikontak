@@ -1,0 +1,2 @@
+*.dart linguist-language=Dart
+*.kt linguist-language=ignore
